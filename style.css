@@ -1,4 +1,4 @@
-body { background: LightGoldenrodYellow;
+body { background: rgb(255, 119, 237);
 }
 h1 { color: brown;
  font-size: 50px; text-align: center;
@@ -22,7 +22,7 @@ ol {
  margin-right: 10px; padding: 20px;
  width: 60%; border-radius: 8px;
 }
-.content-right { background: #DAA520;
+.content-right { background: #8accf5;
  margin-left: 10px; padding: 20px;
  width: 35%;
  border-radius: 8px;
